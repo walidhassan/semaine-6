@@ -1,0 +1,54 @@
+body{
+
+    background-color: purple;
+}
+header{
+    background-image: url('image/ignasi.png');
+    margin: 15px;
+    padding : 10px;
+    
+}
+.info{
+    float:left;
+    text-align: center;
+    font-size: 24px;
+    padding: 40px;
+}
+.image{
+    padding : 10px;
+    float: right;
+    max-height: 300px;
+}
+main{
+    background-image: url('image/paisley.png');
+    margin: 15px;
+    padding : 10px;
+    text-align: center;
+}
+#colonne1{
+    
+    float: left;
+}
+#colonne3{
+    
+    float: right;
+}
+.experience{
+    padding: 10px;
+}
+.ambition{
+    padding: 10px;
+}
+.parcours{
+    padding: 10px;
+}
+footer{
+    background-image: url('image/wov.png');
+    margin: 15px;
+    padding : 30px;
+}
+#coordonnees{
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
