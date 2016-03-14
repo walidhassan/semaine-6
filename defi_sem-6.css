@@ -1,0 +1,170 @@
+
+.header{
+	height: 80px;
+	background-color: #37BBD2;
+	position: relative;
+
+
+	}
+.big{
+
+	height: 350px;
+	background-color: blue;
+	border: 5px solid #414041;
+	position: relative;
+
+}
+.mid{
+
+	height: 170px;
+	background-color: #7EFEFF;
+	border: 5px solid  #414041;
+	position: relative;
+
+}
+.small{
+
+	height: 180px;
+	background-color: red;
+	border: 5px solid  #414041;
+	position: relative;
+}
+.bloc{
+
+}
+.pied_de_bloc{
+	padding: 15px;
+	height: 45px;
+	background-color: black;
+	color: white;
+}
+.image_big{
+}
+.image_small{
+	height: 130px;
+}
+.image_mid{
+	height: 130px;
+
+}
+.texte{
+	font-size: 20px;
+	padding-top: 10px;
+	color: white;
+}
+.divshot{
+	padding-left: 15px;
+}
+.confirme{
+	font-size: 10px;
+	height: 15px;
+	color: white;
+
+}
+.confirmee{
+	padding-top: 15px;
+	font-size: 20px;
+	height: 15px;
+	color: white;
+
+}
+.leader{
+	background-color: #F5F5F5;
+}
+.enter{
+	background-color: #FA8A7E;
+}
+.sport{
+	background-color: #B483FF;
+}
+.food{
+	background-color: #B7F6C9;
+}
+.know{
+	background-color: #FBFF86;
+}
+.geo{
+	background-color: #FA8A7E;
+}
+.science{
+	background-color: #B7F6C9;
+}
+.tv{
+	background-color: #B483FF;
+}
+.music{
+	background-color: #7EFEFF;
+}
+.profile{
+	background-color: #F5F5F5;
+}
+.leader_pic{
+	padding: 65px;
+}
+.enter_pic{
+	padding-top: 40px; 
+	padding-left: 15px;
+}
+.sport_pic{
+	padding: 30px; 
+}
+.food_pic{
+	padding: 20px; 
+	padding-top: 12px;
+}
+.know_pic{
+	padding: 20px; 
+}
+.geo_pic{
+	padding: 40px;
+	padding-left: 70px;
+}
+.dragon_pic{
+	padding: 80px;
+	padding-top: 40px;
+}
+.science_pic{
+	padding: 30px; 
+}
+.pop_pic{
+	padding: 30px; 
+}
+.music_pic{
+	padding: 30px; 
+}
+.profil_pic{
+	padding: 30px; 
+}
+.leader_foot{
+	background-color: #999999;
+}
+.enter_foot{
+	background-color: #F8504D;
+}
+.sport_foot{
+	background-color: #7F53C6;
+}
+.food_foot{
+	background-color: #35EAB5;
+}
+.know_foot{
+	background-color: #FBED1A;
+}
+.geo_foot{
+	background-color: #F8504D;
+}
+.hist_foot{
+	background-color: #3EA8F6;
+}
+.science_foot{
+	background-color: #35EAB5;
+}
+.tv_foot{
+	background-color: #7F53C6;
+}
+.music_foot{
+	background-color: #3EA8F6;
+}
+.profile_foot{
+	background-color: #999999;
+}
